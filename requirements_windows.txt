@@ -1,0 +1,23 @@
+# Alzheimer's MRI Classifier - Windows Requirements
+
+# Core ML/DL
+tensorflow>=2.10.0
+numpy>=1.23.0
+pandas>=1.5.0
+
+# Image processing
+opencv-python>=4.7.0
+Pillow>=9.0.0
+
+# Visualization
+matplotlib>=3.6.0
+
+# Machine Learning utilities
+scikit-learn>=1.1.0
+
+# EfficientNet
+efficientnet
+
+# Web Application
+flask>=2.3.0
+werkzeug>=2.3.0
